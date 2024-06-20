@@ -6,7 +6,7 @@ A compilation of personal projects as well as challenges
 ## **Stand-alone projects**
 -------------------------------------------------
 
-### **End to End ISRCTN analysis** Link to Repository [ISRCTN Analysis](https://github.com/Rachit-R/Explore_ISRCTN)
+### **End to End ISRCTN analysis** Link to Repository: [ISRCTN Analysis](https://github.com/Rachit-R/Explore_ISRCTN)
 - Personal aim: Utilise python to automate SQL queries. Strengthen SQL fundamentals, Data Manipulation and Data Query. Visualise data in a meaningful way in Tableau. Track project via Git.
 - Project involved end-to-end process of handling, cleaning, analysing, and visualizing clinical trial data.
 - Main objective is to extract insights from a clinical trials dataset and present the findings through a Tableau dashboard.
