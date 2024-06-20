@@ -6,8 +6,14 @@ A compilation of personal projects as well as challenges
 ## **Stand-alone projects**
 -------------------------------------------------
 
+### **End to End ISRCTN analysis**
+- This project involved end-to-end process of handling, cleaning, analysing, and visualizing clinical trial data.
+- The main objective is to extract insights from a clinical trials dataset and present the findings through a Tableau dashboard.
+- The process includes downloading a CSV file, cleaning and transforming the data, loading it into an SQLite database, executing a series of SQL alter statements within the DB browser to better categorise some data, automating various SQL queries to generate CSV files for visualization in tableau.
+[Exploring_Completed_Trials_ISRCTN](https://public.tableau.com/views/Exploring_Completed_Trials_ISRCTN/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-### **Clinical trial initiation trend analysis**
+
+### **Visualising Clinical trial Data**
 
 - Cleaned and visualized UK-based clinical trial data (1995-2023) from the ISRCTN registry, revealing trends in trial initiation and condition category distribution.  
 The project involved cleaning and visualizing clinical trial initiation data from the ISRCTN registry, focusing on trials initiated with UK recruitment from 1995 to 2023.  
