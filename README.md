@@ -1,7 +1,6 @@
 # **Data Analysis portfolio by Rachit Regmi**
 ----------------------------------------------
 
-A compilation of personal projects as well as challenges
 
 ## **Stand-alone projects**
 -------------------------------------------------
