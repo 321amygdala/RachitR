@@ -6,12 +6,19 @@ A compilation of personal projects as well as challenges
 ## **Stand-alone projects**
 -------------------------------------------------
 
-### **End to End ISRCTN analysis** Link to Repository: [ISRCTN Analysis](https://github.com/Rachit-R/Explore_ISRCTN)
-- Aim: Utilise python to automate SQL queries. Strengthen SQL fundamentals, Data Manipulation and Data Query. Visualise data in a meaningful way in Tableau. Track project via Git.
-- Project involved end-to-end process of handling, cleaning, analysing, and visualizing clinical trial data.
-- Main objective is to extract insights from a clinical trials dataset and present the findings through a Tableau dashboard.
-- The process includes downloading a CSV file, cleaning and transforming the data, loading it into an SQLite database, executing a series of SQL Manipulation statements within the DB browser to better categorise some data, automating various SQL queries to generate CSV files for visualization in tableau.
-[Exploring_Completed_Trials_ISRCTN](https://public.tableau.com/views/Exploring_Completed_Trials_ISRCTN/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### **End to End ISRCTN analysis** 
+- Link to Repository: [ISRCTN Analysis](https://github.com/Rachit-R/Explore_ISRCTN)
+- Link to Dashboard: [Exploring_Completed_Trials_ISRCTN](https://public.tableau.com/views/Exploring_Completed_Trials_ISRCTN/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+- Aim: Utilize Python to automate SQL queries, strengthen SQL fundamentals, perform data manipulation and queries, and visualise data meaningfully in Tableau. Project tracking was managed via Git.
+- Scope: The project covered the end-to-end process of handling, cleaning, analysing, and visualising clinical trial data.
+- Objective: Extract insights from a clinical trials dataset and present the findings through a Tableau dashboard.
+ - Process:
+   1) Downloaded a CSV file containing clinical trial data.
+   2) Cleaned and transformed data.
+   3) Loaded data into an SQLite database.
+   4) Used SQL manipulation statements to better categorise data.
+   5) Automated various SQL queries to generate CSV files for visualisation in Tableau.
+
 
 
 ### **Interactive visualisation of Clinical Trial Data**
